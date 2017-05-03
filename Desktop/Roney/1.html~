@@ -1,0 +1,9 @@
+<html>
+<body bgcolor=gold>
+<a href=http://www.google.com target=webpage.html>Go to Google<a/>
+<a href=http://www.Facebook.com> Go to Facebook </a>
+<a href=http://www.wikipedia.com> Go to WikiPedia</a>
+<a href=webpage.html target=body>Go to Home </a>
+
+</body>
+</html>
